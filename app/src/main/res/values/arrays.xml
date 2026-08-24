@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mgroups">
+        <item>Legs</item>
+        <item>Back</item>
+        <item>Chest</item>
+        <item>Arms</item>
+        <item>Abs</item>
+        <item>Cardio</item>
+        <item>Mobility</item>
+    </string-array>
+    <string-array name="exercise_options">
+        <item>High Bar Squats</item>
+        <item>Bulgarian Split Squats (Quad)</item>
+        <item>Bulgarian Split Squats (Glute)</item>
+        <item>Lying Leg Curls</item>
+        <item>Sitting Leg Curls</item>
+        <item>Leg Press</item>
+        <item>Hip Adductors</item>
+        <item>Hip Abductors</item>
+        <item>Calf Raises</item>
+        <item>Bench Press</item>
+        <item>Chest Press</item>
+        <item>Pushups</item>
+        <item>Tricep Pushdowns</item>
+        <item>Tricep Extensions</item>
+        <item>Overhead Tricep Extensions</item>
+        <item>Lateral Raises</item>
+        <item>Shoulder Press</item>
+        <item>Incline Bicep Curls</item>
+        <item>Hammer Curls</item>
+        <item>Braced Bicep Curls</item>
+        <item>Pullups</item>
+        <item>Lat Pull Downs</item>
+        <item>Dumbbell Rows</item>
+        <item>Wide Rows</item>
+        <item>Upper Back Rows</item>
+        <item>Barbell Rows</item>
+    </string-array>
+
+</resources>
