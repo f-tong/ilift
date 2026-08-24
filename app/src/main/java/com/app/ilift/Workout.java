@@ -24,17 +24,17 @@ public class Workout extends AppCompatActivity {
             return insets;
         });
 
-        Button btn = (Button)findViewById(R.id.b_addEx);
+        Button endBtn = (Button)findViewById(R.id.b_addEx);
 
-        btn.setOnClickListener(new View.OnClickListener() {
+        endBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(Workout.this, MainActivity.class));
             }
         });
 
-        btn = (Button)findViewById(R.id.b_add);
-        btn.setOnClickListener(new View.OnClickListener() {
+        Button addBtn = (Button)findViewById(R.id.b_add);
+        addBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(Workout.this, Exercise.class));
