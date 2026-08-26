@@ -10,32 +10,34 @@
         <item>Mobility</item>
     </string-array>
     <string-array name="exercise_options">
-        <item>High Bar Squats</item>
-        <item>Bulgarian Split Squats (Quad)</item>
-        <item>Bulgarian Split Squats (Glute)</item>
-        <item>Lying Leg Curls</item>
-        <item>Sitting Leg Curls</item>
-        <item>Leg Press</item>
-        <item>Hip Adductors</item>
-        <item>Hip Abductors</item>
-        <item>Calf Raises</item>
-        <item>Bench Press</item>
-        <item>Chest Press</item>
-        <item>Pushups</item>
-        <item>Tricep Pushdowns</item>
-        <item>Tricep Extensions</item>
-        <item>Overhead Tricep Extensions</item>
-        <item>Lateral Raises</item>
-        <item>Shoulder Press</item>
-        <item>Incline Bicep Curls</item>
-        <item>Hammer Curls</item>
-        <item>Braced Bicep Curls</item>
-        <item>Pullups</item>
-        <item>Lat Pull Downs</item>
-        <item>Dumbbell Rows</item>
-        <item>Wide Rows</item>
-        <item>Upper Back Rows</item>
-        <item>Barbell Rows</item>
+        <item mgroup="Legs">High Bar Squats</item>
+        <item mgroup="Legs">Bulgarian Split Squats (Quad)</item>
+        <item mgroup="Legs">Bulgarian Split Squats (Glute)</item>
+        <item mgroup="Legs">Lying Leg Curls</item>
+        <item mgroup="Legs">Sitting Leg Curls</item>
+        <item mgroup="Legs">Leg Press</item>
+        <item mgroup="Legs">Hip Adductors</item>
+        <item mgroup="Legs">Hip Abductors</item>
+        <item mgroup="Legs">Calf Raises</item>
+        <item mgroup="Chest">Bench Press</item>
+        <item mgroup="Chest">Chest Press</item>
+        <item mgroup="Chest">Pushups</item>
+        <item mgroup="Arms">Tricep Pushdowns</item>
+        <item mgroup="Arms">Tricep Extensions</item>
+        <item mgroup="Arms">Overhead Tricep Extensions</item>
+        <item mgroup="Arms">Lateral Raises</item>
+        <item mgroup="Arms">Shoulder Press</item>
+        <item mgroup="Arms">Incline Bicep Curls</item>
+        <item mgroup="Arms">Hammer Curls</item>
+        <item mgroup="Arms">Braced Bicep Curls</item>
+        <item mgroup="Back">Pullups</item>
+        <item mgroup="Back">Lat Pull Downs</item>
+        <item mgroup="Back">Dumbbell Rows</item>
+        <item mgroup="Back">Wide Rows</item>
+        <item mgroup="Back">Upper Back Rows</item>
+        <item mgroup="Back">Barbell Rows</item>
+        <item mgroup="Cardio">Run</item>
+        <item mgroup="Cardio">Stairmaster</item>
     </string-array>
 
 </resources>
